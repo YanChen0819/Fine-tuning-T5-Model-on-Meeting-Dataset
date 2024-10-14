@@ -1,7 +1,8 @@
 # 文本智慧分析 Team 7 Meeting Summarization Project
 
 ## Overview
-本專案為實作從 hugging face 尋找會議資料集將 T5 Model 針對會議摘要的task做微調訓練，並比較過往研究其他資料集的成果
+本專案為實作從 hugging face 尋找會議資料集將 T5 Model 針對會議摘要的task做微調訓練，並比較過往研究其他資料集的成果。
+
 This project focuses on the **Meeting Summarization task**, an NLP task that condenses a lengthy text document into a shorter version while retaining key information. The project utilizes various meeting datasets and summarization models for evaluation.
 
 ## Datasets
